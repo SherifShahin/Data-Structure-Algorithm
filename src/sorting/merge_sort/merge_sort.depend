@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519217825 source:f:\merge_sort\main.cpp
+	<iostream>
+	<limits>
+	<stdio.h>
+	<cmath>
+
